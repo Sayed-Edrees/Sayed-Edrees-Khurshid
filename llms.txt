@@ -1,0 +1,19 @@
+# Sayed Edrees Khurshid
+
+> Sayed Edrees Khurshid is a self-taught front-end web developer based in Kabul, Afghanistan. He builds fast, responsive and accessible websites with HTML, CSS and JavaScript, and is available for freelance work and collaboration.
+
+## Facts
+- Name: Sayed Edrees Khurshid
+- Profession: Front-End Web Developer
+- Location: Kabul, Afghanistan
+- Languages: English, Pashto, Dari (Persian)
+- Core tools: HTML, CSS, JavaScript, Git, VS Code
+- Services: custom responsive websites, e-commerce storefront interfaces, web application interfaces
+- Availability: freelance and collaboration
+- Response time: usually within 24 hours
+
+## Links
+- [Portfolio](https://example.com/): main site, with contact details and form at https://example.com/#contact
+- [GitHub](https://github.com/Sayed-Edrees)
+- [LinkedIn](https://www.linkedin.com/in/sayed-edrees-khurshid-12628732b/)
+- [Telegram](https://t.me/S_Edrees_K)
